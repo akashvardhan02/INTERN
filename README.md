@@ -46,5 +46,5 @@ This project is a full-stack application for managing employee training through 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/employee-training-module.git
-   cd employee-training-module
+   git clone (https://github.com/akashvardhan02/INTERN.git)
+   cd INTERN
